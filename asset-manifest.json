@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/.github.io/CitySearch/static/css/main.cca9d42f.chunk.css",
+    "main.js": "/.github.io/CitySearch/static/js/main.0379a51c.chunk.js",
+    "main.js.map": "/.github.io/CitySearch/static/js/main.0379a51c.chunk.js.map",
+    "runtime-main.js": "/.github.io/CitySearch/static/js/runtime-main.687500f4.js",
+    "runtime-main.js.map": "/.github.io/CitySearch/static/js/runtime-main.687500f4.js.map",
+    "static/js/2.640889b3.chunk.js": "/.github.io/CitySearch/static/js/2.640889b3.chunk.js",
+    "static/js/2.640889b3.chunk.js.map": "/.github.io/CitySearch/static/js/2.640889b3.chunk.js.map",
+    "index.html": "/.github.io/CitySearch/index.html",
+    "precache-manifest.a5b3c1c2f10d17309f40adf92eade896.js": "/.github.io/CitySearch/precache-manifest.a5b3c1c2f10d17309f40adf92eade896.js",
+    "service-worker.js": "/.github.io/CitySearch/service-worker.js",
+    "static/css/main.cca9d42f.chunk.css.map": "/.github.io/CitySearch/static/css/main.cca9d42f.chunk.css.map",
+    "static/js/2.640889b3.chunk.js.LICENSE.txt": "/.github.io/CitySearch/static/js/2.640889b3.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/.github.io/CitySearch/static/media/foto4.f5fc4314.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.687500f4.js",
+    "static/js/2.640889b3.chunk.js",
+    "static/css/main.cca9d42f.chunk.css",
+    "static/js/main.0379a51c.chunk.js"
+  ]
+}
